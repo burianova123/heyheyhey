@@ -1,0 +1,18 @@
+.bg-info {
+    --bs-bg: oklch(0.76 0.09 217.98);
+    background-color: var(--bs-bg);
+}
+
+.card {
+    height: 100%;
+}
+
+.neutral {
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
