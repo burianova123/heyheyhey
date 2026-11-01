@@ -12,7 +12,6 @@
     object-fit: cover;
 }
 
-.card-img-top {
-    width: 100%;
-    object-fit: cover;
+.uv img {
+    height: 75%;
 }
