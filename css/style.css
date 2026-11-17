@@ -19,3 +19,8 @@
 .klice {
     max-width: 800px;
 }
+
+.lala a{
+   text-decoration: none;
+   color: black;
+}
